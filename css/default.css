@@ -1,0 +1,101 @@
+#theme-container {
+	padding: 10px 20px;
+}
+
+#main-container{
+	clear : both;
+	text-align: center;
+    margin: auto;
+}
+
+#main-container .login-form{
+	width: 500px;
+    clear: both;
+    text-align: center;
+    margin: auto;
+}
+
+#main-container .login-form{
+	padding: 20px;
+}
+
+#theme-container .theme-bar{
+	float: right;
+}
+
+#theme-container .theme-bar div{ 
+    float: left;
+    margin-right: 20px;
+}
+
+.row {
+	padding: 5px 15px;
+	width: calc( 100% - 30px);
+	display: inline-block;
+}
+
+.row .col-md-6{
+	width: 50%;
+	float: left;
+}
+
+
+.col-md-3{
+	width: 33.33%;
+	float: left;
+}
+
+.col-md-5{
+	width: 20%;
+	float: left;
+}
+
+.col-md-4{
+	width: 25%;
+	float: left;
+}
+
+
+
+.event-form-container{
+	padding: 20px;
+}
+
+.event-form-container .field-group{
+	width: 50%;
+}
+
+.event-form-container .field-group .field-label, .event-form-container .field-group .field{
+	width: 50%;
+    float: left;
+}
+
+
+.event-form-container .field-group .field input, .event-form-container .field-group .field select, .event-form-container .field-group .field button{
+	width:100%;
+}
+
+
+.events-view-container .event-city,.events-view-container .event-country,.events-view-container .event-name {
+	float: left;
+    margin-right: 20px;
+}
+
+.event-list-page .events-list .group-header{
+	font-size: 50px;
+}
+
+.events-view-container .event-name 
+{
+    font-size: 30px;
+}
+
+.events-view-container .event-date{
+	padding-top: 20px;
+    font-size: 25px;
+}
+
+.events-view-container {
+	margin: 30px 20px;
+	padding: 10px 20px;
+}

@@ -1,0 +1,26 @@
+.modal-main
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+    height: 100%;
+    text-align: center;
+}
+.modal-main .modal-content{
+    background: white;
+    height: 100%;
+}
+
+.modal-main .modal-header .modal-close
+{
+	height: 30px;
+    width: 30px;
+    position: absolute;
+    right: 0;
+    text-align: right;
+    padding: 10px 10px 0px 0px;
+    cursor: pointer;
+
+}

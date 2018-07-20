@@ -1,0 +1,41 @@
+body[theme=default] *{
+	font-family: cursive;
+}
+
+body[theme=default] .events-view-container{
+	border-bottom: 2px solid grey;
+    background-color: cornsilk;
+}
+
+body[theme=default] #main-container .login-form{
+	 background-color: cornsilk;
+}
+
+
+
+body[theme=tiger] *{
+	font-family: cursive;
+}
+
+body[theme=tiger] .events-view-container{
+	border-bottom: 2px solid grey;
+    background-color: rgb(255, 220, 0);
+}
+
+body[theme=tiger] #main-container .login-form{
+	 background-color: rgb(255, 220, 0);
+}
+
+
+body[theme=panda] *{
+	font-family: cursive;
+}
+
+body[theme=panda] .events-view-container{
+	border-bottom: 2px solid grey;
+    background-color: gainsboro;
+}
+
+body[theme=panda] #main-container .login-form{
+	 background-color: gainsboro;
+}
